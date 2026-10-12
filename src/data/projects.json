@@ -55,7 +55,12 @@
       }
     ],
     "credits": "Progetto accademico individuale. Fotografie di Thomas Brown.",
-    "role": "Ideazione e progettazione dell’intera comunicazione, dal concept alla realizzazione di tutti i materiali."
+    "role": "Ideazione e progettazione dell’intera comunicazione, dal concept alla realizzazione di tutti i materiali.",
+    "pdf": {
+      "src": "/assets/pdf/thomas-brown-comunicazione.pdf",
+      "label": "Apri il PDF completo",
+      "pages": 18
+    }
   },
   {
     "id": "emilie",
@@ -767,13 +772,66 @@
         "alt": "BOX n°9 — pagina 51",
         "width": 1800,
         "height": 1013
+      },
+      {
+        "src": "/assets/projects/box-n9-carosello-01.jpg",
+        "alt": "BOX n°9 — carosello social, slide 1",
+        "width": 4500,
+        "height": 4500
+      },
+      {
+        "src": "/assets/projects/box-n9-carosello-02.jpg",
+        "alt": "BOX n°9 — carosello social, slide 2",
+        "width": 4500,
+        "height": 4500
+      },
+      {
+        "src": "/assets/projects/box-n9-carosello-03.jpg",
+        "alt": "BOX n°9 — carosello social, slide 3",
+        "width": 4500,
+        "height": 4500
+      },
+      {
+        "src": "/assets/projects/box-n9-carosello-04.jpg",
+        "alt": "BOX n°9 — carosello social, slide 4",
+        "width": 4500,
+        "height": 4500
+      },
+      {
+        "src": "/assets/projects/box-n9-carosello-05.jpg",
+        "alt": "BOX n°9 — carosello social, slide 5",
+        "width": 4500,
+        "height": 4500
+      },
+      {
+        "src": "/assets/projects/box-n9-carosello-06.jpg",
+        "alt": "BOX n°9 — carosello social, slide 6",
+        "width": 4500,
+        "height": 4500
+      },
+      {
+        "src": "/assets/projects/box-n9-carosello-07.jpg",
+        "alt": "BOX n°9 — carosello social, slide 7",
+        "width": 4500,
+        "height": 4500
+      },
+      {
+        "src": "/assets/projects/box-n9-post-social.jpg",
+        "alt": "BOX n°9 — post social: costruisci, nasconditi, gioca, esplora, vivi",
+        "width": 4500,
+        "height": 5625
       }
     ],
     "description": [
       "BOX n°9 è un concept di box modulari per gatti, sviluppato in gruppo per Computer Graphic III. Il progetto collega un prodotto fisico a un’esperienza digitale che ne accompagni la configurazione e l’utilizzo.",
-      "Il mio lavoro si è concentrato sull’app: ho organizzato le schermate per la configurazione iniziale, la gestione delle box tramite QR code e la consultazione delle attività. Ho curato la continuità del percorso e la disposizione delle informazioni nell’interfaccia."
+      "Il mio lavoro si è concentrato sull’app: ho organizzato le schermate per la configurazione iniziale, la gestione delle box tramite QR code e la consultazione delle attività. Ho curato la continuità del percorso e la disposizione delle informazioni nell’interfaccia. Ho realizzato anche il carosello di presentazione e il post social mostrati nella galleria, combinando fotografie, illustrazioni e dettagli grafici in composizioni dal tono giocoso."
     ],
     "credits": "Progetto universitario di gruppo · Computer Graphic III.",
-    "role": "Progettazione dell’app: struttura delle schermate e percorso di navigazione."
+    "role": "Progettazione dell’app: struttura delle schermate e percorso di navigazione. Realizzazione del carosello di presentazione e del post social mostrati nella galleria.",
+    "pdf": {
+      "src": "/assets/pdf/box-n9-progetto.pdf",
+      "label": "Apri il PDF completo",
+      "pages": 107
+    }
   }
 ]

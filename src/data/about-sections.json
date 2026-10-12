@@ -1,0 +1,103 @@
+[
+  {
+    "id": "who-i-am",
+    "title": "Who I Am",
+    "image": "/assets/archive/about-me/280e24ca-70ac-41c8-bd92-8d8364734614_car_4x3.jpeg",
+    "description": "Un po’ di me, fra curiosità, immagini e piccoli dettagli.",
+    "color": "var(--orange)",
+    "paragraphs": [
+      "Sono una persona tranquilla, silenziosa e molto osservatrice. Mi piace prendermi il tempo per ascoltare, immaginare e osservare ciò che mi circonda, trovando spesso ispirazione nei dettagli più semplici e nei momenti più silenziosi della quotidianità.",
+      "La gentilezza, l’empatia e la curiosità sono aspetti che sento molto vicini al mio modo di vivere e relazionarmi con gli altri. Anche se tendo ad essere una persona piuttosto solitaria, considero molto importante l’affetto delle persone che mi stanno accanto e i piccoli spazi in cui posso sentirmi davvero a casa.",
+      "Amo leggere, ascoltare musica e perdermi nei miei pensieri, soprattutto nei momenti di calma e silenzio che spesso diventano anche quelli in cui mi sento più creativa e ispirata.",
+      "Credo che il mio modo di essere influenzi profondamente anche il mio approccio al design: cerco sempre di creare qualcosa che non sia solo visivamente curato, ma che riesca anche a trasmettere emozioni, atmosfera e una piccola parte di me stessa."
+    ],
+    "gallery": [
+      {
+        "src": "/assets/archive/approach-to-design/50d7d5b9-b5ea-4e32-b59a-8fe75d299c53_rw_1920.jpeg",
+        "alt": "Who I Am — immagine 1"
+      }
+    ],
+    "ink": "var(--night)"
+  },
+  {
+    "id": "inspiration-everyday-life",
+    "title": "Inspiration & Everyday Life",
+    "image": "/assets/archive/about-me/68f4e108-1856-44d7-a276-941579bac2e3_car_4x3.jpeg",
+    "description": "Libri, musica e momenti quotidiani che diventano ispirazione.",
+    "color": "var(--yellow)",
+    "paragraphs": [
+      "Gran parte del mio immaginario nasce da momenti semplici e silenziosi della vita quotidiana. La notte è uno dei luoghi in cui mi sento più ispirata: mi piace il modo in cui tutto rallenta, diventando più calmo, luminoso e pieno di dettagli che spesso durante il giorno passano inosservati.",
+      "Trovo ispirazione nei libri, nella musica, nella fotografia, nella pittura e nei paesaggi atmosferici. Quando leggo, amo perdermi nei luoghi e nei personaggi, immaginando mondi lontani e costruendo connessioni emotive attraverso immagini e sensazioni.",
+      "La musica accompagna ogni parte delle mie giornate ed è uno degli elementi che influenzano maggiormente il mio processo creativo. Mi aiuta a concentrarmi, isolarmi e costruire atmosfere capaci di trasformare emozioni e pensieri in immaginari visivi.",
+      "Mi sento particolarmente legata agli oggetti che fanno parte della mia quotidianità — libri, vinili, cuffie, tè e fotografia — perché rappresentano piccoli spazi personali in cui ritrovare calma, ispirazione e familiarità.",
+      "Il mio immaginario è fortemente influenzato da atmosfere calme, intime e contemplative, dove anche i dettagli più semplici possono diventare parte di un racconto visivo più personale e immersivo."
+    ],
+    "gallery": [
+      {
+        "src": "/assets/archive/experience/2bcb92cd-83ca-4feb-aa97-e34f1c9dd647_rw_1200.jpeg",
+        "alt": "Inspiration & Everyday Life — immagine 1"
+      },
+      {
+        "src": "/assets/archive/experience/68d1c77e-96ee-459e-b9ca-597bd53ca55a_rw_600.jpeg",
+        "alt": "Inspiration & Everyday Life — immagine 2"
+      },
+      {
+        "src": "/assets/archive/experience/29492c3b-0eff-4200-af58-0c144ea49b0c_rw_1200.jpeg",
+        "alt": "Inspiration & Everyday Life — immagine 3"
+      },
+      {
+        "src": "/assets/archive/experience/cd7d26d5-0174-487b-8c07-84550e8d7e80_rw_1200.jpeg",
+        "alt": "Inspiration & Everyday Life — immagine 4"
+      },
+      {
+        "src": "/assets/archive/experience/9294e84a-6c19-4e31-ba01-1e0aa41dc3f9_rw_1200.jpeg",
+        "alt": "Inspiration & Everyday Life — immagine 5"
+      },
+      {
+        "src": "/assets/archive/experience/e9006fe5-98e6-437a-b15c-683928faca77_rw_1200.jpeg",
+        "alt": "Inspiration & Everyday Life — immagine 6"
+      },
+      {
+        "src": "/assets/archive/experience/626dcff1-1711-4c99-a867-41d1a108d792_rw_1200.jpeg",
+        "alt": "Inspiration & Everyday Life — immagine 7"
+      }
+    ],
+    "ink": "var(--night)"
+  },
+  {
+    "id": "experience",
+    "title": "Experience",
+    "image": "/assets/archive/about-me/2ef8e3a0-bbbd-4ea8-9ad8-d5c2d10c3511_rwc_0x60x474x355x474.jpeg",
+    "description": "Il mio percorso di studio e le esperienze che mi hanno formata.",
+    "color": "var(--brown)",
+    "paragraphs": [
+      "Attualmente frequento il corso di Graphic Design e Multimedia presso LABA, iniziato nel 2023, con laurea prevista per febbraio 2027.",
+      "Durante il mio percorso ho sviluppato particolare interesse per il design editoriale, il branding, il web design e la fotografia, approfondendo la costruzione di identità visive e atmosfere attraverso immagini, typography e composizione.",
+      "Utilizzo principalmente Adobe Photoshop, Illustrator, InDesign e Lightroom, software con cui lavoro quotidianamente. Parallelamente sto approfondendo Figma e Framer, con l’obiettivo di sviluppare competenze sempre più solide nella progettazione di esperienze digitali e siti web.",
+      "Dal 3 luglio 2026 al 4 settembre 2026 ho svolto un tirocinio presso BOWagency, lavorando alla progettazione e all’impaginazione di materiali di comunicazione, tra manuali di identità visiva e template per i social. Accanto alla formazione nel design, porto avanti un’esperienza lavorativa all’interno di una Cooperativa Sociale dal 2025.",
+      "Nel futuro mi piacerebbe entrare a far parte di uno studio creativo o di un team progettuale che mi permetta di continuare a imparare, crescere e sviluppare il mio approccio al design attraverso esperienze reali e collaborative."
+    ],
+    "gallery": [],
+    "ink": "var(--paper)"
+  },
+  {
+    "id": "approach-to-design",
+    "title": "Approach to Design",
+    "image": "/assets/about-cover.jpeg",
+    "description": "Dalla ricerca al progetto, seguendo atmosfere e intuizioni.",
+    "color": "var(--burgundy)",
+    "paragraphs": [
+      "Quando inizio un progetto, parto sempre dal concept e dalla ricerca. Mi piace raccogliere immagini, riferimenti e atmosfere per costruire un immaginario visivo capace di trasmettere sensazioni e raccontare qualcosa di personale.",
+      "Sono particolarmente attratta da immagini in bianco e nero, fotografie analogiche, dipinti e dettagli che riescono a evocare emozioni anche attraverso elementi semplici. Il minimalismo è una delle estetiche che più mi rappresentano, perché credo che anche attraverso pochi elementi sia possibile comunicare molto.",
+      "Nei miei progetti lavoro soprattutto sull’atmosfera e sui dettagli, cercando di trasformare idee e sensazioni in esperienze visive immersive e intenzionali. Per me un progetto funziona davvero quando riesce a trasmettere ciò che immaginavo all’inizio del processo creativo.",
+      "Cerco sempre di inserire una piccola parte di me stessa all’interno di ciò che creo. Per questo i progetti troppo perfetti spesso non mi colpiscono: sembrano privi di umanità, come se mancasse qualcosa di autentico dietro l’immagine finale."
+    ],
+    "gallery": [
+      {
+        "src": "/assets/archive/who-i-am/d8baef73-c26f-4b3b-b3b8-e0b8edc232b9_rw_3840.jpeg",
+        "alt": "Approach to Design — immagine 1"
+      }
+    ],
+    "ink": "var(--paper)"
+  }
+]

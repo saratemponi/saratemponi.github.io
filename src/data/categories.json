@@ -1,0 +1,42 @@
+[
+  {
+    "id": "editorial-branding",
+    "title": "Editorial & Branding",
+    "image": "/assets/editorial.webp",
+    "description": "Identità visive, packaging e progetti editoriali.",
+    "color": "var(--burgundy)",
+    "ink": "var(--paper)"
+  },
+  {
+    "id": "digital-design",
+    "title": "Digital Design",
+    "image": "/assets/box.webp",
+    "description": "App, interfacce e progetti di web design.",
+    "color": "var(--night)",
+    "ink": "var(--paper)"
+  },
+  {
+    "id": "fotografia",
+    "title": "Still Life & Atmospheres",
+    "image": "/assets/photography.webp",
+    "description": "Luce, oggetti e piccoli racconti fotografici.",
+    "color": "var(--yellow)",
+    "ink": "var(--night)"
+  },
+  {
+    "id": "graphic-experiments",
+    "title": "Graphic Experiments",
+    "image": "/assets/experiments.webp",
+    "description": "Poster, sperimentazione grafica e comunicazione social.",
+    "color": "var(--red)",
+    "ink": "var(--paper)"
+  },
+  {
+    "id": "digital-compositing",
+    "title": "Digital Compositing",
+    "image": "/assets/compositing.webp",
+    "description": "Paesaggi immaginari e composizioni digitali.",
+    "color": "var(--orange)",
+    "ink": "var(--night)"
+  }
+]

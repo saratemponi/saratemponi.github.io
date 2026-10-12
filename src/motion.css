@@ -1,0 +1,39 @@
+/* Movimenti brevi, legati alla lettura e all'interazione. */
+.hero-copy > *, .personal-hero-copy > * {
+  animation: text-arrives .65s cubic-bezier(.2, .7, .3, 1) both;
+}
+.hero-copy > :nth-child(2), .personal-hero-copy > :nth-child(2) { animation-delay: .07s; }
+.hero-copy > :nth-child(3), .personal-hero-copy > :nth-child(3) { animation-delay: .14s; }
+.hero-copy > :nth-child(4), .personal-hero-copy > :nth-child(4) { animation-delay: .21s; }
+.hero-collage, .personal-hero-image { animation: image-arrives .8s .1s cubic-bezier(.2, .7, .3, 1) both; }
+.page-intro { animation: text-arrives .55s cubic-bezier(.2, .7, .3, 1) both; }
+.reveal-target { transition: opacity .55s ease, transform .55s cubic-bezier(.2, .7, .3, 1); }
+.reveal-target.is-pending { opacity: 0; transform: translateY(22px); }
+.collage-book, .collage-digital { transition: transform .35s cubic-bezier(.2, .7, .3, 1); }
+.pill-button span { transition: transform .2s ease; }
+.preview[open] { animation: preview-arrives .18s ease both; }
+@media (hover: hover) and (pointer: fine) {
+  .collage-book:hover, .collage-book:focus-visible { transform: rotate(0deg) translateY(-5px); }
+  .collage-digital:hover, .collage-digital:focus-visible { transform: rotate(-1deg) translateY(-5px); }
+  .pill-button:hover span { transform: translate(3px, -2px); }
+}
+@keyframes text-arrives {
+  from { opacity: 0; transform: translateY(12px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+@keyframes image-arrives {
+  from { opacity: 0; translate: 0 18px; }
+  to { opacity: 1; translate: 0 0; }
+}
+@keyframes preview-arrives {
+  from { opacity: 0; scale: .985; }
+  to { opacity: 1; scale: 1; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .hero-copy > *, .personal-hero-copy > *, .hero-collage, .personal-hero-image,
+  .page-intro, .preview[open] { animation: none; }
+  .reveal-target.is-pending { opacity: 1; transform: none; }
+  .collage-book:hover, .collage-book:focus-visible { transform: rotate(2deg); }
+  .collage-digital:hover, .collage-digital:focus-visible { transform: rotate(-3deg); }
+  .pill-button:hover span { transform: none; }
+}

@@ -1,0 +1,71 @@
+.contact-redesign { max-width: 1392px; margin: 0 auto; padding: 42px 56px 70px; }
+.contact-conversation { display: grid; grid-template-columns: 1fr 1fr; gap: 85px; align-items: center; padding: 74px 8px 95px; }
+.contact-conversation .eyebrow { font-weight: 700; margin: 0 0 25px; }
+.contact-conversation h1 { color: var(--burgundy); font-family: var(--display-font); font-size: clamp(68px, 7.7vw, 108px); font-weight: 400; line-height: 1.05; text-transform: uppercase; letter-spacing: -.02em; margin: 0 0 35px; }
+.contact-conversation h1 em { font-family: Georgia, serif; text-transform: none; color: var(--red); letter-spacing: -.055em; font-size: .76em; white-space: nowrap; }
+.contact-conversation-details > p { color: var(--brown); font-size: 15px; line-height: 1.85; max-width: 440px; margin: 0 0 24px; }
+.contact-conversation-details > p.contact-new-lead { color: var(--burgundy); font: 400 26px/1.45 Georgia, serif; letter-spacing: -.025em; margin: 0 0 24px; }
+.contact-interests { display: flex; flex-wrap: wrap; gap: 9px; margin-top: 30px; }
+.contact-interests span { color: var(--burgundy); font-size: 10px; padding: 10px 14px; border: 1px solid var(--line); border-radius: 999px; }
+.contact-cv-link { margin-top: 28px; border-color: var(--burgundy); color: var(--burgundy); }
+.contact-postcard { position: relative; background: var(--yellow); color: var(--burgundy); border: 8px solid #FFF9F0; border-radius: 27px; padding: 30px 34px 45px; box-shadow: 14px -14px 0 var(--orange), 0 14px 28px rgb(117 83 68 / .09); transform: rotate(3deg); }
+.contact-postcard-header { display: flex; justify-content: space-between; align-items: center; gap: 20px; padding-bottom: 20px; border-bottom: 1px solid rgb(114 43 67 / .23); }
+.contact-postcard-header > span { font-size: 9px; line-height: 1.6; font-weight: 700; letter-spacing: .12em; }
+.contact-stamp { flex-shrink: 0; width: 63px; height: 63px; }
+.contact-postcard-label { margin: 35px 0 14px; font: italic 23px/1.3 Georgia, serif; }
+.contact-address { display: block; color: var(--burgundy); font-family: Georgia, serif; font-size: clamp(23px, 2.1vw, 30px); line-height: 1.45; letter-spacing: -.04em; overflow-wrap: anywhere; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 6px; }
+.contact-address span { font-family: Arial, sans-serif; font-size: 22px; display: inline-block; text-decoration: none; }
+.contact-address:hover { color: var(--night); }
+.contact-postcard-help { font-size: 12px; line-height: 1.8; margin: 20px 0 24px; color: var(--night); }
+.contact-copy-button { display: inline-flex; align-items: center; gap: 24px; padding: 15px 20px; background: var(--burgundy); color: var(--paper); border: 1px solid var(--burgundy); border-radius: 999px; font-size: 11px; font-weight: 700; cursor: pointer; }
+.contact-copy-button span { font-size: 20px; line-height: .8; }
+.contact-copy-button:hover { background: var(--night); border-color: var(--night); }
+.contact-copy-status { font-size: 11px; line-height: 1.7; min-height: 19px; margin: 12px 0 26px; color: var(--night); }
+.contact-postcard-note { display: block; text-align: right; font: italic 22px/1.3 Georgia, serif; transform: rotate(-5deg); }
+.contact-discover { display: grid; grid-template-columns: 1fr 1fr; gap: 28px; }
+.contact-discover a { display: flex; flex-direction: column; padding: 30px 36px; gap: 18px; border: 1px solid var(--line); border-radius: 25px; color: var(--burgundy); transition: background .2s; }
+.contact-discover a:hover { background: var(--yellow); }
+.contact-discover a > span { font-size: 9px; font-weight: 700; letter-spacing: .12em; color: var(--brown); }
+.contact-discover strong { display: flex; justify-content: space-between; align-items: center; gap: 15px; font: 400 28px/1.2 Georgia, serif; letter-spacing: -.025em; }
+.contact-discover em { font: normal 27px/1 Arial, sans-serif; }
+@media (max-width: 1100px) {
+  .contact-redesign { padding-left: 48px; padding-right: 48px; }
+  .contact-conversation { gap: 48px; }
+  .contact-postcard { padding: 25px 24px 35px; }
+  .contact-conversation-details > p.contact-new-lead { font-size: 24px; }
+  .contact-postcard-header { gap: 15px; }
+  .contact-address { font-size: 24px; }
+  .contact-discover strong { font-size: 24px; }
+}
+@media (max-width: 850px) {
+  .contact-conversation { grid-template-columns: 1fr; gap: 55px; padding-bottom: 75px; }
+  .contact-conversation-copy { max-width: 600px; }
+  .contact-postcard { width: min(500px, calc(100% - 20px)); margin: 0 auto; padding: 32px 36px 40px; }
+  .contact-address { font-size: 29px; }
+}
+@media (max-width: 700px) {
+  .contact-redesign { padding: 28px 22px 46px; }
+  .contact-conversation { grid-template-areas: 'heading' 'postcard' 'details'; padding: 30px 6px 58px; gap: 30px; }
+  .contact-conversation-copy { display: contents; }
+  .contact-conversation-heading { grid-area: heading; }
+  .contact-conversation-details { grid-area: details; }
+  .contact-postcard { grid-area: postcard; }
+  .contact-conversation .eyebrow { font-size: 9px; margin-bottom: 16px; }
+  .contact-conversation h1 { font-size: clamp(62px, 15vw, 83px); margin-bottom: 20px; }
+  .contact-conversation-details > p { font-size: 14px; }
+  .contact-conversation-details > p.contact-new-lead { font-size: 22px; margin-bottom: 22px; }
+  .contact-interests { margin-top: 25px; }
+  .contact-postcard { border-width: 6px; border-radius: 22px; padding: 18px 20px 26px; box-shadow: 10px -10px 0 var(--orange), 0 14px 28px rgb(117 83 68 / .09); }
+  .contact-postcard-header > span { font-size: 8px; }
+  .contact-stamp { width: 44px; height: 44px; }
+  .contact-postcard-label { font-size: 22px; margin-top: 20px; }
+  .contact-address { font-size: clamp(20px, 5.7vw, 23px); }
+  .contact-address span { display: none; }
+  .contact-postcard-help { font-size: 11px; }
+  .contact-copy-button { font-size: 10px; padding: 14px 16px; gap: 16px; }
+  .contact-postcard-note { font-size: 21px; }
+  .contact-discover { grid-template-columns: 1fr; gap: 18px; }
+  .contact-discover a { padding: 26px 28px; border-radius: 22px; }
+  .contact-discover strong { font-size: 25px; }
+}
+@media (prefers-reduced-motion: reduce) { .contact-discover a { transition: none; } }

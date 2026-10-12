@@ -1,0 +1,68 @@
+.personal-hero { position: relative; max-width: 1376px; margin: 0 auto; padding: 68px 48px 88px; display: grid; grid-template-columns: 1.1fr 1fr; gap: 100px; align-items: center; }
+.about-hero { background: var(--paper); }
+.personal-hero h1 { color: var(--ink); font-size: clamp(60px, 7.4vw, 106px); line-height: 1.02; font-weight: 400; letter-spacing: -.065em; margin-bottom: 30px; }
+.personal-hero h1 em { color: var(--burgundy); font-family: Georgia, serif; font-weight: 400; }
+.personal-hero-copy>p:not(.eyebrow) { color: var(--muted); font-size: 17px; line-height: 1.8; margin: 0 0 28px; }
+.personal-hero-image { position: relative; padding: 0 0 40px; transform: rotate(2deg); margin: 0 16px; }
+.personal-hero-image::before { content: ''; position: absolute; top: -18px; right: -18px; bottom: 55px; left: 18px; background: var(--orange); z-index: -1; }
+.personal-hero-image img { display: block; width: 100%; aspect-ratio: 4 / 3; height: auto; object-fit: cover; }
+.personal-note { display: block; position: absolute; bottom: -8px; right: 0; font-family: Georgia, serif; font-size: 22px; line-height: 1.2; font-style: italic; }
+.about-work { padding-top: 15px; padding-bottom: 80px; }
+.about-next { max-width: 1280px; margin: 0 auto 70px; padding: 48px 64px; background: var(--yellow); display: flex; justify-content: space-between; align-items: end; gap: 36px; border-radius: 5px; }
+.about-next .eyebrow { color: var(--ink); }
+.about-next h2 { color: var(--burgundy); font-size: clamp(36px, 4.5vw, 62px); letter-spacing: -.045em; font-weight: 400; margin: 0; }
+.about-next h2 em { font-family: Georgia, serif; font-weight: 400; }
+.about-next .pill-button { flex-shrink: 0; }
+.personal-story { display: grid; grid-template-columns: 1.05fr 1fr; border-radius: 5px; overflow: hidden; background: var(--category-color); align-items: start; }
+.personal-photo { padding: 0; border-radius: 0; background: var(--paper); }
+.personal-photo img { max-height: 780px; object-fit: contain; }
+.personal-prose { color: var(--category-ink, var(--ink)); padding: 40px; }
+.personal-prose p { font-size: 15px; line-height: 1.9; margin: 0 0 24px; }
+.personal-prose p:last-child { margin-bottom: 0; }
+.personal-gallery { margin-top: 50px; }
+.personal-image-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 30px; }
+.personal-image-grid .gallery-image { border-radius: 5px; overflow: hidden; padding: 0; }
+.personal-image-grid img { width: 100%; height: 360px; object-fit: cover; }
+.experience-list { display: flex; flex-direction: column; gap: 0; }
+.experience-row { display: grid; grid-template-columns: 40px 1fr 1.7fr; gap: 30px; padding: 34px 0; border-top: 1px solid var(--line); align-items: start; }
+.experience-row:first-child { border-top: 3px solid var(--category-color); }
+.experience-number { font-size: 10px; padding-top: 7px; color: var(--muted); }
+.experience-row h2 { font-family: Georgia, serif; font-weight: 400; font-size: 30px; line-height: 1.15; letter-spacing: -.035em; margin: 0; }
+.experience-row p { font-size: 15px; line-height: 1.85; margin: 0; }
+.contact-page .page-intro { padding-bottom: 28px; }
+.contact-page .eyebrow { background: var(--yellow); }
+.contact-panel { position: relative; padding: 54px; border-radius: 5px; background: var(--yellow); overflow: hidden; }
+.contact-panel h2 { color: var(--burgundy); font-size: clamp(60px, 8vw, 108px); line-height: 1; font-weight: 400; letter-spacing: -.065em; margin: 0 0 28px; }
+.contact-panel h2 em { font-family: Georgia, serif; font-weight: 400; }
+.contact-panel>.eyebrow { color: var(--ink); }
+.contact-intro { font-size: 16px; line-height: 1.85; max-width: 470px; margin: 0 0 28px; }
+.contact-email { font-size: clamp(20px, 3.2vw, 44px); font-family: Georgia, serif; font-weight: 400; letter-spacing: -.04em; display: inline-block; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 10px; overflow-wrap: anywhere; max-width: 100%; }
+.contact-email span { font-family: Arial, sans-serif; }
+.contact-actions { display: flex; align-items: center; flex-wrap: wrap; gap: 24px; margin-top: 38px; }
+.copy-email { border: 0; border-bottom: 1px solid currentColor; padding: 6px 0; background: none; cursor: pointer; font-size: 13px; }
+.contact-handwriting { position: absolute; right: 55px; bottom: 45px; font-family: Georgia, serif; font-size: 23px; font-style: italic; line-height: 1.2; }
+.contact-links { display: flex; justify-content: space-between; gap: 20px; margin-top: 30px; font-size: 13px; }
+.sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border: 0; }
+@media (max-width: 1400px) { .about-next { margin-left: 48px; margin-right: 48px; } }
+@media (max-width: 1000px) { .personal-hero { gap: 45px; } .personal-prose { color: var(--category-ink, var(--ink)); padding: 28px; } .personal-prose p { font-size: 14px; } .contact-handwriting { display: none; } .contact-panel { padding: 42px; } }
+@media (max-width: 700px) {
+ .personal-hero { grid-template-columns: 1fr; padding: 46px 26px 60px; gap: 50px; }
+ .personal-hero h1 { font-size: 70px; }
+ .personal-hero-copy>p:not(.eyebrow) { font-size: 16px; }
+ .personal-hero-image { max-width: 440px; width: calc(100% - 18px); margin: 0 auto; }
+ .personal-note { font-size: 22px; }
+ .about-work { padding-top: 24px; padding-bottom: 48px; }
+ .about-next { flex-direction: column; align-items: flex-start; gap: 26px; margin: 0 22px 46px; padding: 36px 28px; }
+ .personal-story { grid-template-columns: 1fr; }
+ .personal-image-grid { grid-template-columns: 1fr; gap: 22px; }
+ .personal-image-grid img { height: auto; max-height: 550px; object-fit: contain; }
+ .experience-row { grid-template-columns: 28px 1fr; gap: 20px; padding: 28px 0; }
+ .experience-row p { grid-column: 1 / -1; }
+ .experience-row h2 { font-size: 28px; }
+ .contact-panel { padding: 36px 25px; }
+ .contact-panel h2 { color: var(--burgundy); font-size: 68px; }
+ .contact-panel>.eyebrow { line-height: 1.7; margin-bottom: 25px; }
+ .contact-intro { font-size: 15px; }
+ .contact-actions { gap: 20px; margin-top: 32px; }
+ .contact-links { flex-direction: column; }
+}

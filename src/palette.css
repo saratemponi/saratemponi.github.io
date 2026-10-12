@@ -1,0 +1,14 @@
+/* Palette di Sara: rossi caldi, luce morbida e toni profondi. */
+:root {
+  --paper: #FAF3E8; /* bianco crema: fondo */
+  --night: #202B45; /* blu notte */
+  --red: #BE3C32; /* rosso caldo */
+  --yellow: #F3DEA6; /* giallo pastello */
+  --orange: #EB9459; /* arancio */
+  --brown: #755344; /* marrone */
+  --burgundy: #722B43; /* bordeaux */
+
+  --ink: var(--night);
+  --muted: var(--brown);
+  --line: #D7CEC2;
+}

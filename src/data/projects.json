@@ -1,0 +1,779 @@
+[
+  {
+    "id": "thomas-brown",
+    "title": "Thomas Brown — Structured Poetry",
+    "categoryId": "editorial-branding",
+    "category": "Art direction · Campagna di comunicazione",
+    "image": "/assets/archive/editoriale/436673f4-f62d-4f06-beff-9fbe7af20b3e_rw_1920.png",
+    "fit": "contain",
+    "description": [
+      "Una proposta di comunicazione per Structured Poetry, mostra fotografica di Thomas Brown, realizzata individualmente. L’obiettivo è rendere riconoscibile la mostra su formati diversi, facendo dialogare la grafica con le forme e le materie presenti nelle fotografie.",
+      "Ho costruito un sistema di griglie, gerarchie tipografiche e accostamenti fotografici, declinandolo su manifesto, flyer, banner e contenuti social. Le fotografie restano il centro della composizione; il testo dà ordine alle informazioni."
+    ],
+    "gallery": [
+      {
+        "src": "/assets/archive/editoriale/436673f4-f62d-4f06-beff-9fbe7af20b3e_rw_1920.png",
+        "alt": "Thomas Brown — Structured Poetry — elaborato 1",
+        "width": 1920,
+        "height": 1083
+      },
+      {
+        "src": "/assets/archive/editoriale/ef8fc74f-24b4-4a27-9b43-f7c3fb622afa_rw_1200.png",
+        "alt": "Thomas Brown — Structured Poetry — elaborato 2",
+        "width": 1086,
+        "height": 1448
+      },
+      {
+        "src": "/assets/archive/editoriale/5ad000c6-2006-485c-8811-2a25693ce67a_rw_1920.png",
+        "alt": "Thomas Brown — Structured Poetry — elaborato 3",
+        "width": 1254,
+        "height": 1254
+      },
+      {
+        "src": "/assets/archive/editoriale/4242d97a-95c4-41f6-945b-94b18427a1cc_rw_1200.png",
+        "alt": "Thomas Brown — Structured Poetry — elaborato 4",
+        "width": 887,
+        "height": 1774
+      },
+      {
+        "src": "/assets/archive/editoriale/952ee931-308d-442e-8217-c35f7b404c24_rw_1200.png",
+        "alt": "Thomas Brown — Structured Poetry — elaborato 5",
+        "width": 1086,
+        "height": 1448
+      },
+      {
+        "src": "/assets/archive/editoriale/6a85fb2d-22f7-4a52-a146-b55d2beaff14_rw_1920.png",
+        "alt": "Thomas Brown — Structured Poetry — elaborato 6",
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "src": "/assets/archive/editoriale/2509fe03-35d0-46cb-bccb-f0ac6589ea55_rw_1920.png",
+        "alt": "Thomas Brown — Structured Poetry — elaborato 7",
+        "width": 1619,
+        "height": 972
+      }
+    ],
+    "credits": "Progetto accademico individuale. Fotografie di Thomas Brown.",
+    "role": "Ideazione e progettazione dell’intera comunicazione, dal concept alla realizzazione di tutti i materiali."
+  },
+  {
+    "id": "emilie",
+    "title": "Émilie",
+    "categoryId": "editorial-branding",
+    "category": "Branding · Packaging",
+    "image": "/assets/archive/editoriale/f2f3da49-8201-4350-a4bf-10a90a8a4410_rw_600.jpg",
+    "fit": "contain",
+    "description": [
+      "Émilie è un profumo immaginario ispirato alla storia di un rifugio, al calore e all’intimità di un momento di tregua. Il progetto traduce questo racconto in un’identità visiva e in una confezione che lo renda percepibile già prima di aprirla.",
+      "Ho scelto geometrie ispirate all’Art Déco, un fondo avorio e accenti caldi. Il fronte lascia spazio al segno dell’abbraccio e al marchio; il retro ospita la storia del profumo. Forma, decorazione e gerarchie collegano i diversi lati del packaging."
+    ],
+    "gallery": [
+      {
+        "src": "/assets/archive/editoriale/f2f3da49-8201-4350-a4bf-10a90a8a4410_rw_600.jpg",
+        "alt": "Émilie — elaborato 1",
+        "width": 425,
+        "height": 885
+      },
+      {
+        "src": "/assets/archive/editoriale/6dabebc3-e8c0-43bc-8e49-d1c7d8a2e83d_rw_1200.png",
+        "alt": "Émilie — elaborato 2",
+        "width": 968,
+        "height": 1278
+      },
+      {
+        "src": "/assets/archive/editoriale/7f6ab413-5740-4da4-b5b2-c5764b72016b_rw_1200.png",
+        "alt": "Émilie — elaborato 3",
+        "width": 896,
+        "height": 1350
+      }
+    ],
+    "role": "Concept, identità visiva e progettazione grafica del packaging.",
+    "credits": "Progetto accademico per un profumo immaginario."
+  },
+  {
+    "id": "cercando-alaska",
+    "title": "Cercando Alaska",
+    "categoryId": "editorial-branding",
+    "category": "Editoriale · Sovraccoperta",
+    "image": "/assets/mockup/cercando-alaska-copertina-mockup.webp",
+    "fit": "contain",
+    "description": [
+      "Una reinterpretazione della sovraccoperta di Cercando Alaska di John Green. L’obiettivo è evocare le relazioni e le atmosfere del romanzo, costruendo un’immagine che accompagni il lettore prima ancora della prima pagina.",
+      "Ho combinato fotografia, sagome e un fiore bianco su una palette blu petrolio. Tipografia e immagini proseguono tra fronte, dorso, retro e alette, trattando la sovraccoperta come un’unica composizione."
+    ],
+    "gallery": [
+      {
+        "src": "/assets/mockup/cercando-alaska-copertina-mockup.webp",
+        "alt": "Cercando Alaska — mockup della copertina",
+        "width": 1536,
+        "height": 1024,
+        "kind": "mockup",
+        "caption": "Mockup digitale del progetto."
+      },
+      {
+        "src": "/assets/print/cercando-alaska-copertina-web.webp",
+        "alt": "Cercando Alaska — sovraccoperta distesa",
+        "width": 1799,
+        "height": 807
+      }
+    ],
+    "galleryStyle": "print",
+    "role": "Concept visivo, composizione delle immagini e impaginazione della sovraccoperta.",
+    "credits": "Reinterpretazione accademica del romanzo di John Green."
+  },
+  {
+    "id": "house-of-humans",
+    "title": "House of Humans",
+    "categoryId": "editorial-branding",
+    "category": "Branding · Identità visiva",
+    "image": "/assets/archive/editoriale/f7acaad6-0980-47e0-94c4-58a9c27d04bb_rw_1200.png",
+    "fit": "contain",
+    "description": [
+      "Un progetto universitario di gruppo per House of Humans, sviluppato nell’ambito di LABA × Thimus. L’identità mette al centro l’incontro fra persone, culture e tecnologie e usa la cellula come simbolo di connessione.",
+      "Abbiamo lavorato insieme al concept, all’identità visiva e ai materiali di comunicazione, condividendo le scelte di composizione, tipografia e gerarchia delle informazioni. Le applicazioni traducono il linguaggio del progetto in formati e supporti diversi."
+    ],
+    "gallery": [
+      {
+        "src": "/assets/archive/editoriale/f7acaad6-0980-47e0-94c4-58a9c27d04bb_rw_1200.png",
+        "alt": "House of Humans — elaborato 1",
+        "width": 1014,
+        "height": 452
+      },
+      {
+        "src": "/assets/archive/editoriale/3a0fce18-aa50-4efc-ba19-9f9b079a32cc_rw_1920.png",
+        "alt": "House of Humans — elaborato 2",
+        "width": 1268,
+        "height": 452
+      }
+    ],
+    "credits": "Progetto universitario di gruppo · LABA × Thimus.",
+    "role": "Progettazione condivisa con il gruppo: concept, identità visiva e materiali di comunicazione."
+  },
+  {
+    "id": "convivialita",
+    "title": "Convivialità",
+    "categoryId": "fotografia",
+    "category": "Fotografia · Still life",
+    "image": "/assets/archive/fotografie/d40e1b13-0972-40e7-9927-ac324424a16f_rw_1920.jpg",
+    "fit": "contain",
+    "description": [
+      "Una serie still life sul calore di un momento condiviso. Vino, pane e salumi diventano gli elementi di una tavola da osservare attraverso superfici, ombre e piccoli dettagli.",
+      "Ho curato la disposizione degli oggetti e la luce direzionale, variando le inquadrature per mettere in relazione l’insieme della scena e le sue consistenze. La composizione cerca di suggerire la presenza delle persone attraverso ciò che resta sulla tavola."
+    ],
+    "gallery": [
+      {
+        "src": "/assets/archive/fotografie/d40e1b13-0972-40e7-9927-ac324424a16f_rw_1920.jpg",
+        "alt": "Convivialità — elaborato 1",
+        "width": 1920,
+        "height": 2880
+      },
+      {
+        "src": "/assets/projects/convivialita-serie.webp",
+        "alt": "Convivialità — secondo scatto",
+        "width": 1200,
+        "height": 1800
+      }
+    ],
+    "workingTitle": true,
+    "role": "Composizione della scena, gestione della luce e realizzazione degli scatti."
+  },
+  {
+    "id": "zucchero-a-velo",
+    "title": "Zucchero a velo",
+    "categoryId": "fotografia",
+    "category": "Fotografia · Still life",
+    "image": "/assets/archive/fotografie/1ab6d260-7a7c-486c-bddb-e339c57f699b_rw_1920.jpg",
+    "fit": "contain",
+    "description": [
+      "Uno still life che cerca di fermare un gesto: la caduta dello zucchero a velo. L’obiettivo è introdurre movimento in una scena composta da oggetti fermi e rendere visibile il contrasto fra le diverse consistenze.",
+      "Ho lavorato con una luce calda e un’inquadratura ravvicinata. Lo zucchero sospeso, le superfici e le ombre diventano i punti attorno a cui organizzare lo scatto."
+    ],
+    "gallery": [
+      {
+        "src": "/assets/archive/fotografie/1ab6d260-7a7c-486c-bddb-e339c57f699b_rw_1920.jpg",
+        "alt": "Zucchero a velo — elaborato 1",
+        "width": 1920,
+        "height": 2880
+      },
+      {
+        "src": "/assets/projects/zucchero-a-velo-serie.webp",
+        "alt": "Zucchero a velo — secondo scatto",
+        "width": 1200,
+        "height": 1800
+      }
+    ],
+    "workingTitle": true,
+    "role": "Allestimento dello still life, composizione e realizzazione degli scatti."
+  },
+  {
+    "id": "tempo-di-lettura",
+    "title": "Tempo di lettura",
+    "categoryId": "fotografia",
+    "category": "Fotografia · Still life",
+    "image": "/assets/archive/fotografie/dbcddde1-5fdd-44f2-838e-d4ffa11e70c7_rw_1920.jpg",
+    "fit": "contain",
+    "description": [
+      "Uno still life dedicato alla quiete della lettura. Libri, tè e oggetti quotidiani costruiscono una scena intima, pensata per suggerire un momento di pausa.",
+      "Ho organizzato gli elementi in modo che luce e ombre guidassero lo sguardo fra le pagine e gli oggetti. La fotografia cerca un’atmosfera raccolta attraverso l’equilibrio della composizione."
+    ],
+    "gallery": [
+      {
+        "src": "/assets/archive/fotografie/dbcddde1-5fdd-44f2-838e-d4ffa11e70c7_rw_1920.jpg",
+        "alt": "Tempo di lettura — elaborato 1",
+        "width": 1920,
+        "height": 2880
+      }
+    ],
+    "workingTitle": true,
+    "role": "Scelta e disposizione degli oggetti, illuminazione e fotografia."
+  },
+  {
+    "id": "memorie-analogiche",
+    "title": "Memorie analogiche",
+    "categoryId": "fotografia",
+    "category": "Fotografia · Still life",
+    "image": "/assets/archive/fotografie/d29c1e43-6e8d-4965-92a8-07902b05d041_rw_1920.jpg",
+    "fit": "contain",
+    "description": [
+      "Uno still life sul rapporto fra musica, oggetti e ricordi. I vinili diventano il punto di partenza per raccontare un immaginario legato all’ascolto analogico.",
+      "Ho lavorato sull’accostamento degli elementi, sulle superfici e sulla luce. Il taglio dell’immagine mette in evidenza i dettagli degli oggetti e li collega in una composizione dal tono nostalgico."
+    ],
+    "gallery": [
+      {
+        "src": "/assets/archive/fotografie/d29c1e43-6e8d-4965-92a8-07902b05d041_rw_1920.jpg",
+        "alt": "Memorie analogiche — elaborato 1",
+        "width": 1920,
+        "height": 2880
+      }
+    ],
+    "workingTitle": true,
+    "role": "Composizione dello still life, gestione della luce e fotografia."
+  },
+  {
+    "id": "the-show",
+    "title": "The Show",
+    "categoryId": "graphic-experiments",
+    "category": "Poster · Musica",
+    "image": "/assets/archive/grafiche/884b51d0-9c03-4f52-9555-f1adbb888084_rw_1200.jpg",
+    "fit": "contain",
+    "description": [
+      "Un poster per un concerto immaginario, pensato per tradurre l’energia di un’esibizione dal vivo in un’immagine statica.",
+      "Ho combinato fotografie sovrapposte e tipografia di dimensioni diverse. Contrasti e gerarchie danno ritmo alla composizione, distinguendo il titolo dalle informazioni del concerto."
+    ],
+    "gallery": [
+      {
+        "src": "/assets/archive/grafiche/884b51d0-9c03-4f52-9555-f1adbb888084_rw_1200.jpg",
+        "alt": "The Show — elaborato 1",
+        "width": 1080,
+        "height": 1350
+      }
+    ],
+    "role": "Progettazione del poster, composizione fotografica e gerarchie tipografiche."
+  },
+  {
+    "id": "invisibilita",
+    "title": "Invisibilità",
+    "categoryId": "graphic-experiments",
+    "category": "Poster · Sperimentazione",
+    "image": "/assets/archive/grafiche/d6eb7a9f-d363-4109-a521-329e92413858_rw_1920.jpg",
+    "fit": "contain",
+    "description": [
+      "Un poster sperimentale sul tema dell’invisibilità e della perdita di identità. L’obiettivo è tradurre una sensazione di frammentazione in un linguaggio visivo.",
+      "Ho costruito un collage digitale di testi, immagini, simboli e texture. Sovrapposizioni e contrasti producono una composizione densa e irregolare, in cui lo sguardo deve cercare connessioni fra i frammenti."
+    ],
+    "gallery": [
+      {
+        "src": "/assets/archive/grafiche/d6eb7a9f-d363-4109-a521-329e92413858_rw_1920.jpg",
+        "alt": "Invisibilità — elaborato 1",
+        "width": 1890,
+        "height": 2363
+      }
+    ],
+    "workingTitle": true,
+    "role": "Concept, composizione grafica e realizzazione del collage digitale."
+  },
+  {
+    "id": "infografica-prodotto",
+    "title": "Infografica di prodotto",
+    "categoryId": "graphic-experiments",
+    "category": "Grafica · Rendering 3D",
+    "image": "/assets/archive/grafiche/add63a86-4c26-4a74-8417-82bd123835ad_rw_1200.jpg",
+    "fit": "contain",
+    "description": [
+      "Un’infografica che mette in relazione un prodotto e le informazioni che lo descrivono. L’obiettivo è presentare insieme l’aspetto dell’oggetto e i suoi dettagli attraverso rendering 3D, testi e icone.",
+      "Ho organizzato la composizione attorno al prodotto, usando gerarchie grafiche e richiami visivi per guidare la lettura. Luce e materiali dei rendering evidenziano le superfici, mentre i testi rendono consultabili le informazioni."
+    ],
+    "gallery": [
+      {
+        "src": "/assets/archive/grafiche/add63a86-4c26-4a74-8417-82bd123835ad_rw_1200.jpg",
+        "alt": "Infografica di prodotto — elaborato 1",
+        "width": 842,
+        "height": 1191
+      }
+    ],
+    "workingTitle": true,
+    "role": "Progettazione dell’infografica, gerarchie visive e integrazione dei rendering."
+  },
+  {
+    "id": "il-tre",
+    "title": "Il Tre — Invisibili",
+    "categoryId": "graphic-experiments",
+    "category": "Poster · Musica",
+    "image": "/assets/archive/grafiche/1665bbb9-5312-4e34-97b5-f23a57965b1f_rw_1200.jpg",
+    "fit": "contain",
+    "description": [
+      "Un poster dedicato a Il Tre e a Invisibili. Il progetto esplora il linguaggio della comunicazione musicale, cercando un equilibrio fra presenza fotografica e forza del titolo.",
+      "Ho accostato fotografia, texture e tipografia di grande formato. Le sovrapposizioni creano profondità; i contrasti e le dimensioni del testo costruiscono una gerarchia all’interno della composizione."
+    ],
+    "gallery": [
+      {
+        "src": "/assets/archive/grafiche/1665bbb9-5312-4e34-97b5-f23a57965b1f_rw_1200.jpg",
+        "alt": "Il Tre — Invisibili — elaborato 1",
+        "width": 1080,
+        "height": 1350
+      }
+    ],
+    "role": "Progettazione del poster, composizione delle immagini e trattamento tipografico."
+  },
+  {
+    "id": "rifugio-immaginario",
+    "title": "Rifugio immaginario",
+    "categoryId": "digital-compositing",
+    "category": "Compositing · Fantasy",
+    "image": "/assets/archive/compositing/7cc16f08-a428-4013-838e-cca9217070c8_rw_1200.jpg",
+    "fit": "contain",
+    "description": [
+      "Una composizione digitale che immagina un castello racchiuso tra le pagine e i dorsi dei libri. L’obiettivo è trasformare la lettura in un luogo da abitare, sospeso fra realtà e fantasia.",
+      "Ho unito fotografie e texture, lavorando su proporzioni, luce e profondità per far convivere gli elementi nella stessa scena. L’atmosfera notturna nasce dal mio interesse per i mondi fantasy e per gli spazi raccolti."
+    ],
+    "gallery": [
+      {
+        "src": "/assets/archive/compositing/7cc16f08-a428-4013-838e-cca9217070c8_rw_1200.jpg",
+        "alt": "Rifugio immaginario — elaborato 1",
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "workingTitle": true,
+    "role": "Concept dell’immagine, compositing e armonizzazione di luce e colori."
+  },
+  {
+    "id": "oltre-il-mondo",
+    "title": "Oltre il mondo",
+    "categoryId": "digital-compositing",
+    "category": "Compositing · Spazio",
+    "image": "/assets/archive/compositing/37f20bf0-1aed-438d-9a00-f9a3dc11f91f_rw_1920.jpg",
+    "fit": "contain",
+    "description": [
+      "Un paesaggio impossibile che mette due figure di fronte a uno scenario spaziale. Il progetto cerca di restituire una sensazione di silenzio e meraviglia attraverso il rapporto fra le persone e l’ampiezza dell’ambiente.",
+      "Ho combinato fotografie, texture ed elementi spaziali, accordando luce e colori. La scala delle figure e la profondità dello scenario guidano lo sguardo e rendono leggibile il mondo immaginato."
+    ],
+    "gallery": [
+      {
+        "src": "/assets/archive/compositing/37f20bf0-1aed-438d-9a00-f9a3dc11f91f_rw_1920.jpg",
+        "alt": "Oltre il mondo — elaborato 1",
+        "width": 1920,
+        "height": 1200
+      }
+    ],
+    "workingTitle": true,
+    "role": "Composizione digitale, montaggio degli elementi e armonizzazione cromatica."
+  },
+  {
+    "id": "paesaggio-sospeso",
+    "title": "Paesaggio sospeso",
+    "categoryId": "digital-compositing",
+    "category": "Compositing · Paesaggio",
+    "image": "/assets/archive/compositing/547f72ca-f10d-4795-aa25-2d48ba65e177_rw_1200.jpg",
+    "fit": "contain",
+    "description": [
+      "Un esercizio di compositing che trasforma un paesaggio fotografico in una scena sospesa. L’obiettivo è avvicinare natura e immaginazione, conservando un’atmosfera riconoscibile.",
+      "Ho lavorato sull’integrazione degli elementi e sulla continuità della luce. La palette calda e i toni del tramonto legano le parti dell’immagine e ne accentuano il carattere quasi irreale."
+    ],
+    "gallery": [
+      {
+        "src": "/assets/archive/compositing/547f72ca-f10d-4795-aa25-2d48ba65e177_rw_1200.jpg",
+        "alt": "Paesaggio sospeso — elaborato 1",
+        "width": 1000,
+        "height": 1000
+      }
+    ],
+    "workingTitle": true,
+    "role": "Compositing, integrazione degli elementi e trattamento di luce e colore."
+  },
+  {
+    "title": "Side Character",
+    "category": "Progettazione editoriale",
+    "image": "/assets/mockup/side-character-copertina-mockup.webp",
+    "fit": "contain",
+    "tone": "#d0cabd",
+    "description": [
+      "Side Character è un magazine sull’invisibilità: persone dimenticate, vite ai margini e personaggi in cui riconoscersi. L’obiettivo editoriale è invitare a soffermarsi su chi spesso resta sullo sfondo.",
+      "Ho costruito il ritmo delle pagine alternando testi, fotografie in bianco e nero, citazioni e pause visive. Griglie e gerarchie tipografiche tengono insieme le diverse sezioni, lasciando a ciascuna storia uno spazio e un tempo di lettura."
+    ],
+    "id": "side-character",
+    "categoryId": "editorial-branding",
+    "gallery": [
+      {
+        "src": "/assets/mockup/side-character-copertina-mockup.webp",
+        "alt": "Side Character — mockup della copertina",
+        "width": 1536,
+        "height": 1024,
+        "kind": "mockup",
+        "caption": "Mockup digitale del progetto."
+      },
+      {
+        "src": "/assets/print/side-character-copertina-web.webp",
+        "alt": "Side Character — copertina",
+        "width": 1446,
+        "height": 1799
+      },
+      {
+        "src": "/assets/print/side-character-pagina-3-web.webp",
+        "alt": "Side Character — pagina 3",
+        "width": 1446,
+        "height": 1799
+      },
+      {
+        "src": "/assets/print/side-character-pagina-6-web.webp",
+        "alt": "Side Character — pagina 6",
+        "width": 1446,
+        "height": 1799
+      },
+      {
+        "src": "/assets/print/side-character-pagina-7-web.webp",
+        "alt": "Side Character — pagina 7",
+        "width": 1446,
+        "height": 1799
+      },
+      {
+        "src": "/assets/print/side-character-pagina-10-web.webp",
+        "alt": "Side Character — pagina 10",
+        "width": 1446,
+        "height": 1799
+      },
+      {
+        "src": "/assets/print/side-character-pagina-11-web.webp",
+        "alt": "Side Character — pagina 11",
+        "width": 1446,
+        "height": 1799
+      }
+    ],
+    "galleryStyle": "print",
+    "pdf": {
+      "src": "/assets/pdf/side-character.pdf",
+      "label": "Apri il PDF completo",
+      "pages": 72
+    },
+    "role": "Concept editoriale, impaginazione, selezione e composizione delle immagini.",
+    "credits": "Progetto accademico di progettazione editoriale."
+  },
+  {
+    "title": "Il tempo di tornare",
+    "category": "Libro d’autore · Editoriale",
+    "image": "/assets/mockup/il-tempo-di-tornare-copertina-mockup.webp",
+    "fit": "contain",
+    "tone": "#e9e1d4",
+    "description": [
+      "Un libro d’autore dedicato alla memoria della strage di Piazza della Loggia. Attraverso una storia immaginaria e i gesti di una mattina, il progetto cerca di dare spazio alle vite delle persone, alla perdita e a ciò che rimane.",
+      "Ho alternato testo e collage su pagine dalla texture di carta. Fotografie in bianco e nero, frammenti strappati e accenti bordeaux accompagnano il racconto; le pause e gli spazi vuoti ne scandiscono il ritmo."
+    ],
+    "id": "il-tempo-di-tornare",
+    "categoryId": "editorial-branding",
+    "gallery": [
+      {
+        "src": "/assets/mockup/il-tempo-di-tornare-copertina-mockup.webp",
+        "width": 1536,
+        "height": 1024,
+        "alt": "Il tempo di tornare — mockup della copertina",
+        "kind": "mockup",
+        "caption": "Mockup digitale del progetto."
+      },
+      {
+        "src": "/assets/print/il-tempo-di-tornare-copertina-web.webp",
+        "alt": "Il tempo di tornare — copertina",
+        "width": 1799,
+        "height": 1799
+      },
+      {
+        "src": "/assets/print/il-tempo-di-tornare-pagina-4-web.webp",
+        "alt": "Il tempo di tornare — pagina 4",
+        "width": 1799,
+        "height": 1799
+      },
+      {
+        "src": "/assets/print/il-tempo-di-tornare-pagina-5-web.webp",
+        "alt": "Il tempo di tornare — pagina 5",
+        "width": 1799,
+        "height": 1799
+      },
+      {
+        "src": "/assets/print/il-tempo-di-tornare-pagina-8-web.webp",
+        "alt": "Il tempo di tornare — pagina 8",
+        "width": 1799,
+        "height": 1799
+      },
+      {
+        "src": "/assets/print/il-tempo-di-tornare-pagina-9-web.webp",
+        "alt": "Il tempo di tornare — pagina 9",
+        "width": 1799,
+        "height": 1799
+      },
+      {
+        "src": "/assets/print/il-tempo-di-tornare-pagina-18-web.webp",
+        "alt": "Il tempo di tornare — pagina 18",
+        "width": 1799,
+        "height": 1799
+      },
+      {
+        "src": "/assets/print/il-tempo-di-tornare-pagina-19-web.webp",
+        "alt": "Il tempo di tornare — pagina 19",
+        "width": 1799,
+        "height": 1799
+      },
+      {
+        "src": "/assets/print/il-tempo-di-tornare-pagina-23-web.webp",
+        "alt": "Il tempo di tornare — pagina 23",
+        "width": 1799,
+        "height": 1799
+      },
+      {
+        "src": "/assets/print/il-tempo-di-tornare-pagina-24-web.webp",
+        "alt": "Il tempo di tornare — pagina 24",
+        "width": 1799,
+        "height": 1799
+      }
+    ],
+    "galleryStyle": "print",
+    "pdf": {
+      "src": "/assets/pdf/il-tempo-di-tornare.pdf",
+      "label": "Apri il PDF completo",
+      "pages": 26
+    },
+    "role": "Concept del libro, progettazione dell’impaginato e composizione dei collage.",
+    "credits": "Libro d’autore realizzato nel percorso universitario. Personaggi e racconto sono immaginari."
+  },
+  {
+    "title": "Sabrina Toselli",
+    "category": "Brand manual · Tirocinio",
+    "image": "/assets/mockup/sabrina-toselli-copertina-mockup.webp",
+    "fit": "contain",
+    "tone": "#483d2f",
+    "description": [
+      "Un brand manual pensato per raccogliere e rendere consultabili le linee guida dell’identità visiva di Sabrina Toselli. Il progetto organizza in un documento unico la presentazione del brand, le regole del marchio, palette, tipografia e applicazioni.",
+      "Durante il tirocinio ho progettato e impaginato il manuale, lavorando sulla sequenza delle pagine e sulle gerarchie. L’obiettivo era rendere chiari i diversi elementi dell’identità e il modo in cui utilizzarli."
+    ],
+    "id": "sabrina-toselli",
+    "categoryId": "editorial-branding",
+    "gallery": [
+      {
+        "src": "/assets/mockup/sabrina-toselli-copertina-mockup.webp",
+        "width": 1536,
+        "height": 1024,
+        "alt": "Sabrina Toselli — mockup della copertina",
+        "kind": "mockup",
+        "caption": "Mockup digitale del progetto."
+      },
+      {
+        "src": "/assets/sabrina.webp",
+        "alt": "Sabrina Toselli — copertina",
+        "width": 900,
+        "height": 637
+      },
+      {
+        "src": "/assets/projects/sabrina-toselli-2.webp",
+        "alt": "Sabrina Toselli — pagina 2",
+        "width": 1800,
+        "height": 1273
+      },
+      {
+        "src": "/assets/projects/sabrina-toselli-4.webp",
+        "alt": "Sabrina Toselli — pagina 4",
+        "width": 1800,
+        "height": 1273
+      },
+      {
+        "src": "/assets/projects/sabrina-toselli-9.webp",
+        "alt": "Sabrina Toselli — pagina 9",
+        "width": 1800,
+        "height": 1273
+      },
+      {
+        "src": "/assets/projects/sabrina-toselli-10.webp",
+        "alt": "Sabrina Toselli — pagina 10",
+        "width": 1800,
+        "height": 1273
+      },
+      {
+        "src": "/assets/projects/sabrina-toselli-11.webp",
+        "alt": "Sabrina Toselli — pagina 11",
+        "width": 1800,
+        "height": 1273
+      }
+    ],
+    "credits": "Progetto svolto durante il tirocinio presso BOWagency.",
+    "galleryStyle": "print",
+    "pdf": {
+      "src": "/assets/pdf/sabrina-toselli-brand-manual.pdf",
+      "label": "Apri il PDF completo",
+      "pages": 20
+    },
+    "role": "Progettazione grafica e impaginazione del brand manual."
+  },
+  {
+    "title": "BOW",
+    "category": "Template social · Tirocinio",
+    "image": "/assets/bow.webp",
+    "fit": "contain",
+    "tone": "#1a1a1a",
+    "description": [
+      "Un sistema di template per i post Instagram di BOWagency. L’obiettivo è dare coerenza a contenuti diversi attraverso strutture grafiche riutilizzabili per immagini, titoli e informazioni.",
+      "Ho progettato i template e le loro declinazioni per BOW25, tra anticipazioni, programma e conto alla rovescia. La disposizione degli elementi mantiene un linguaggio comune, adattandosi al contenuto di ogni post."
+    ],
+    "id": "bow",
+    "categoryId": "graphic-experiments",
+    "gallery": [
+      {
+        "src": "/assets/bow.webp",
+        "alt": "BOW — copertina",
+        "width": 721,
+        "height": 900
+      },
+      {
+        "src": "/assets/projects/bow-2.webp",
+        "alt": "BOW — pagina 2",
+        "width": 1441,
+        "height": 1800
+      },
+      {
+        "src": "/assets/projects/bow-3.webp",
+        "alt": "BOW — pagina 3",
+        "width": 1441,
+        "height": 1800
+      },
+      {
+        "src": "/assets/projects/bow-6.webp",
+        "alt": "BOW — pagina 6",
+        "width": 1441,
+        "height": 1800
+      },
+      {
+        "src": "/assets/projects/bow-7.webp",
+        "alt": "BOW — pagina 7",
+        "width": 1441,
+        "height": 1800
+      },
+      {
+        "src": "/assets/projects/bow-10.webp",
+        "alt": "BOW — pagina 10",
+        "width": 1441,
+        "height": 1800
+      }
+    ],
+    "credits": "Progetto svolto durante il tirocinio presso BOWagency.",
+    "role": "Progettazione dei template Instagram e adattamento ai diversi contenuti."
+  },
+  {
+    "title": "The Reading Mood",
+    "category": "Web design · Digitale",
+    "image": "/assets/projects/reading-current-01-home.jpg",
+    "fit": "contain",
+    "tone": "#efedf2",
+    "description": [
+      "Un progetto web per scoprire libri a partire dall’umore, dalla stagione e dal genere di lettura. The Reading Mood nasce dall’idea che un libro possa incontrare il momento che stiamo vivendo: dalla calma alla curiosità, ogni stato d’animo apre un percorso diverso.",
+      "Ho lavorato sulla struttura dell’interfaccia e sulle gerarchie visive per accompagnare la scelta: dal mood alla stagione e al genere, fino a un libro consigliato con una playlist da ascoltare durante la lettura. Un archivio permette di esplorare i titoli attraverso la ricerca e i filtri."
+    ],
+    "id": "the-reading-mood",
+    "categoryId": "digital-design",
+    "gallery": [
+      {
+        "src": "/assets/projects/reading-current-01-home.jpg",
+        "alt": "The Reading Mood — home e scelta del mood",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "src": "/assets/projects/reading-current-02-mood.jpg",
+        "alt": "The Reading Mood — scelta della stagione e del genere per il mood Calma",
+        "width": 1280,
+        "height": 786
+      },
+      {
+        "src": "/assets/projects/reading-current-03-risultato.jpg",
+        "alt": "The Reading Mood — libro consigliato e playlist abbinata",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "src": "/assets/projects/reading-current-04-archive.jpg",
+        "alt": "The Reading Mood — archivio dei libri con ricerca e filtri",
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "src": "/assets/projects/reading-current-05-mobile-home.jpg",
+        "alt": "The Reading Mood — home nella versione mobile",
+        "width": 390,
+        "height": 844
+      }
+    ],
+    "website": {
+      "url": "https://saratemponi.github.io/the-reading-mood/",
+      "label": "Visita il sito"
+    },
+    "role": "Progettazione dell’interfaccia, gerarchie visive e percorsi di navigazione.",
+    "credits": "Progetto universitario di web design."
+  },
+  {
+    "title": "BOX n°9",
+    "category": "Digital design · App",
+    "image": "/assets/box.webp",
+    "id": "box-n9",
+    "categoryId": "digital-design",
+    "gallery": [
+      {
+        "src": "/assets/box.webp",
+        "alt": "BOX n°9 — copertina",
+        "width": 1100,
+        "height": 619
+      },
+      {
+        "src": "/assets/projects/box-n9-47.webp",
+        "alt": "BOX n°9 — pagina 47",
+        "width": 1800,
+        "height": 1013
+      },
+      {
+        "src": "/assets/projects/box-n9-48.webp",
+        "alt": "BOX n°9 — pagina 48",
+        "width": 1800,
+        "height": 1013
+      },
+      {
+        "src": "/assets/projects/box-n9-49.webp",
+        "alt": "BOX n°9 — pagina 49",
+        "width": 1800,
+        "height": 1013
+      },
+      {
+        "src": "/assets/projects/box-n9-50.webp",
+        "alt": "BOX n°9 — pagina 50",
+        "width": 1800,
+        "height": 1013
+      },
+      {
+        "src": "/assets/projects/box-n9-51.webp",
+        "alt": "BOX n°9 — pagina 51",
+        "width": 1800,
+        "height": 1013
+      }
+    ],
+    "description": [
+      "BOX n°9 è un concept di box modulari per gatti, sviluppato in gruppo per Computer Graphic III. Il progetto collega un prodotto fisico a un’esperienza digitale che ne accompagni la configurazione e l’utilizzo.",
+      "Il mio lavoro si è concentrato sull’app: ho organizzato le schermate per la configurazione iniziale, la gestione delle box tramite QR code e la consultazione delle attività. Ho curato la continuità del percorso e la disposizione delle informazioni nell’interfaccia."
+    ],
+    "credits": "Progetto universitario di gruppo · Computer Graphic III.",
+    "role": "Progettazione dell’app: struttura delle schermate e percorso di navigazione."
+  }
+]
